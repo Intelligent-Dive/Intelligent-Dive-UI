@@ -1,0 +1,22 @@
+{
+  "name": "react-id-ui",
+  "version": "1.0.0",
+  "description": "React is a popular JavaScript library for building user interfaces. React UI libraries are collections of pre-built UI components that are specifically designed to work with React. These libraries typically include a variety of components such as buttons, forms, modals, tables, and more, which can be used to build responsive and interactive user interfaces quickly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Intelligent-Dive/Intelligent-Dive-UI.git"
+  },
+  "keywords": [
+    "react-id-ui"
+  ],
+  "author": "Intelligent Dive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Intelligent-Dive/Intelligent-Dive-UI/issues"
+  },
+  "homepage": "https://github.com/Intelligent-Dive/Intelligent-Dive-UI#readme"
+}
